@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Dinner Party!</title>
+  <link rel="stylesheet" href="./css/main.css">
+</head>
+<body>
+    <div>
+        <h4>Welcome to the very basic site Dinner Party!</h4>
+    </div>
+    <div>
+    {% for i in recipes %}
+      <p>{{ i.main_type }}</p>
+      <p>{{ i.country }}</p>
+      <p>{{ i.name }}</p>
+      <p>{{ i.recipe_text }}</p>
+    </div>
+    {% endfor %}
+
+
+</body>
+</html>
