@@ -1,0 +1,493 @@
+[
+{
+    "model": "browser.recipe",
+    "pk": 1,
+    "fields": {
+        "name": "Fried Dumplings",
+        "country": "CHN",
+        "sub_region": "Hong Kong",
+        "main_type": "DUMP",
+        "recipe_text": "1) Roll the wrapper\r\n2) Put in the Fillings\r\n3) Fry da bitch!"
+    }
+},
+{
+    "model": "browser.recipe",
+    "pk": 2,
+    "fields": {
+        "name": "Coxinha",
+        "country": "BZL",
+        "sub_region": "North",
+        "main_type": "DUMP",
+        "recipe_text": "I have no idea."
+    }
+},
+{
+    "model": "browser.recipe",
+    "pk": 3,
+    "fields": {
+        "name": "Apple Pie",
+        "country": "USA",
+        "sub_region": "Country",
+        "main_type": "PIEE",
+        "recipe_text": "You put some apples in some pastry and then you bake da bitch."
+    }
+},
+{
+    "model": "browser.recipe",
+    "pk": 4,
+    "fields": {
+        "name": "Ricotta Dumpling",
+        "country": "ITA",
+        "sub_region": "Rome",
+        "main_type": "DUMP",
+        "recipe_text": "Equipment\r\nDutch Oven\r\nbaking sheet\r\nwhisk\r\nRubber Spatula\r\nSlotted spoon\r\n\r\n\r\n\r\nIngredients\r\n3 eggs\r\n2 cups ricotta cheese\r\n1 1/4 cups flour\r\n1 1/2 tsp kosher salt\r\n1 tsp cracked pepper\r\n1/2 tsp nutmeg\r\nInstructions\r\nBring a large pot of salted water to boil then reduce to a simmer.\r\nBrush a large baking sheet with olive oil.\r\nWhisk eggs in a large bowl, then incorporate ricotta, flour salt, pepper and nutmeg.\r\nUse two small soup spoons to drop rounds gently into boiling water.\r\nSimmer Italian dumplings for 4-5 minutes then using a slotted spoon place onto greased oiled sheet.\r\nNotes\r\nNOTE: you can make ahead by cooking the dumplings then cooling on the oiled baking sheet. Store in an airtight container in the fridge after tossing in oil to ensure they don’t stick.\r\nNutrition\r\nServing: 1batch | Calories: 1202kcal | Carbohydrates: 134.4g | Protein: 61.2g | Fat: 45.3g | Saturated Fat: 24.4g | Cholesterol: 495mg | Sodium: 4009mg | Potassium: 595mg | Fiber: 4.9g | Sugar: 2.3g | Calcium: 460mg | Iron: 11mg"
+    }
+},
+{
+    "model": "browser.recipe",
+    "pk": 5,
+    "fields": {
+        "name": "Traditional Newfoundland White Bread",
+        "country": "CDN",
+        "sub_region": "Newfoundland",
+        "main_type": "BREA",
+        "recipe_text": "Ingredients\r\n5 cups or 635 grams All Purpose Flour\r\n1 package or 7 grams traditional active dry yeast not instant yeast\r\n2 teaspoons or 10 grams of fine salt good quality\r\n3 tablespoons or 45 grams sugar\r\n3 tablespoons or 55 grams butter, melted (need only 45 grams, use the rest to grease proofing bowl)\r\n2 cups or 290 grams milk, lukewarm\r\nInstructions\r\nInstructions for Making by Hand\r\nDissolve 1 tablespoon of sugar into half cup lukewarm water; sprinkle yeast over surface of water. Let stand for about 15 minutes until yeast foams well, then stir to combine.\r\nCombine 3 cups of flour, 2 tablespoons sugar and salt into large bowl; add prepared yeast, melted butter and warm milk. Using wooden spoon, mix for 4 to 5 minutes until mixture is smooth.\r\nSlowly incorporate remaining 2 cups flour; mixing gradually until soft dough forms and leaves sides of bowl. You may need to use a little more or a little less flour: add only enough flour to form a dough that releases from sides of bowl and remains slightly tacky but able to be handled with your bare hands.\r\n\r\nTurn the dough out onto work -surface to knead; knead for 8 minutes, then form into ball and place in large greased bowl.\r\n\r\nCover dough; proof in warm place for one hour until double in size.\r\nFOR TOUTONS: Slice off portions of dough, shaping them by hand into rustic circles; lay on cloth until ready to fry.\r\nPunch dough down; knead a few minutes by hand before resting for another 10 minutes.\r\n\r\nGrease 2 medium loaf pans; divide dough into 4-6 equal portions. Form each division into a ball, placing 2 or 3 balls of dough in each loaf pan."
+    }
+},
+{
+    "model": "browser.recipe",
+    "pk": 6,
+    "fields": {
+        "name": "Glissant",
+        "country": "CDN",
+        "sub_region": "Quebec",
+        "main_type": "DUMP",
+        "recipe_text": "1 cup all-purpose flour\r\n 1 teaspoon baking powder\r\n Salt and pepper, to taste\r\n 1 large egg\r\n 1/4 cup milk\r\n Broth, from roast beef\r\n\r\nStep 1\r\nMix dry ingredients together in a bowl.\r\n\r\nStep 2\r\nWisk eggs and milk and add to dry mixture.\r\n\r\nStep 3\r\nMix well.\r\n\r\nStep 4\r\nBring broth to a boil and drop by spoonfuls, a few at a time, into broth, dipping spoon in broth to loosen dumpling.\r\n\r\nStep 5\r\nBring to a boil and cook until dumpling floats.\r\n\r\nStep 6\r\nRemove cooked dumplings and continue in this manner until all dumplings are cooked.\r\n\r\nStep 7\r\nPlace all dumplings in a serving bowl and pour remaining broth, which will have thickened into gravy by know, over dumplings.\r\n\r\nStep 8\r\nServe"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2021-07-14T00:39:17.168Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Fried Dumplings",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2021-07-14T00:40:14.884Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "2",
+        "object_repr": "Coxinha",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2021-07-14T00:41:10.875Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "3",
+        "object_repr": "Apple Pie",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2021-07-15T00:09:46.070Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "4",
+        "object_repr": "Ricotta Dumpling",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2021-07-15T00:11:20.476Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "5",
+        "object_repr": "TRADITIONAL NEWFOUNDLAND WHITE BREAD",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2021-07-15T00:11:39.155Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "5",
+        "object_repr": "Traditional Newfoundland White Bread",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2021-07-15T00:13:23.702Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "6",
+        "object_repr": "Glissant",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 1,
+    "fields": {
+        "name": "Can add log entry",
+        "content_type": 1,
+        "codename": "add_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 2,
+    "fields": {
+        "name": "Can change log entry",
+        "content_type": 1,
+        "codename": "change_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 3,
+    "fields": {
+        "name": "Can delete log entry",
+        "content_type": 1,
+        "codename": "delete_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 4,
+    "fields": {
+        "name": "Can view log entry",
+        "content_type": 1,
+        "codename": "view_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 5,
+    "fields": {
+        "name": "Can add permission",
+        "content_type": 2,
+        "codename": "add_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 6,
+    "fields": {
+        "name": "Can change permission",
+        "content_type": 2,
+        "codename": "change_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 7,
+    "fields": {
+        "name": "Can delete permission",
+        "content_type": 2,
+        "codename": "delete_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 8,
+    "fields": {
+        "name": "Can view permission",
+        "content_type": 2,
+        "codename": "view_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 9,
+    "fields": {
+        "name": "Can add group",
+        "content_type": 3,
+        "codename": "add_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 10,
+    "fields": {
+        "name": "Can change group",
+        "content_type": 3,
+        "codename": "change_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 11,
+    "fields": {
+        "name": "Can delete group",
+        "content_type": 3,
+        "codename": "delete_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 12,
+    "fields": {
+        "name": "Can view group",
+        "content_type": 3,
+        "codename": "view_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 13,
+    "fields": {
+        "name": "Can add user",
+        "content_type": 4,
+        "codename": "add_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 14,
+    "fields": {
+        "name": "Can change user",
+        "content_type": 4,
+        "codename": "change_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 15,
+    "fields": {
+        "name": "Can delete user",
+        "content_type": 4,
+        "codename": "delete_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 16,
+    "fields": {
+        "name": "Can view user",
+        "content_type": 4,
+        "codename": "view_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 17,
+    "fields": {
+        "name": "Can add content type",
+        "content_type": 5,
+        "codename": "add_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 18,
+    "fields": {
+        "name": "Can change content type",
+        "content_type": 5,
+        "codename": "change_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 19,
+    "fields": {
+        "name": "Can delete content type",
+        "content_type": 5,
+        "codename": "delete_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 20,
+    "fields": {
+        "name": "Can view content type",
+        "content_type": 5,
+        "codename": "view_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 21,
+    "fields": {
+        "name": "Can add session",
+        "content_type": 6,
+        "codename": "add_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 22,
+    "fields": {
+        "name": "Can change session",
+        "content_type": 6,
+        "codename": "change_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 23,
+    "fields": {
+        "name": "Can delete session",
+        "content_type": 6,
+        "codename": "delete_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 24,
+    "fields": {
+        "name": "Can view session",
+        "content_type": 6,
+        "codename": "view_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 25,
+    "fields": {
+        "name": "Can add recipe",
+        "content_type": 7,
+        "codename": "add_recipe"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 26,
+    "fields": {
+        "name": "Can change recipe",
+        "content_type": 7,
+        "codename": "change_recipe"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 27,
+    "fields": {
+        "name": "Can delete recipe",
+        "content_type": 7,
+        "codename": "delete_recipe"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 28,
+    "fields": {
+        "name": "Can view recipe",
+        "content_type": 7,
+        "codename": "view_recipe"
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$260000$MZFActdQwQV8hdyMQRGBMZ$fpv+A173pVQju85ZpLwFPk15fk3mJvJVJJ9Evovdi9E=",
+        "last_login": "2021-07-14T00:38:05.275Z",
+        "is_superuser": true,
+        "username": "admin",
+        "first_name": "",
+        "last_name": "",
+        "email": "admin@example.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2021-07-14T00:35:58.394Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 1,
+    "fields": {
+        "app_label": "admin",
+        "model": "logentry"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 2,
+    "fields": {
+        "app_label": "auth",
+        "model": "permission"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 3,
+    "fields": {
+        "app_label": "auth",
+        "model": "group"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 4,
+    "fields": {
+        "app_label": "auth",
+        "model": "user"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 5,
+    "fields": {
+        "app_label": "contenttypes",
+        "model": "contenttype"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 6,
+    "fields": {
+        "app_label": "sessions",
+        "model": "session"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 7,
+    "fields": {
+        "app_label": "browser",
+        "model": "recipe"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "yq0uo3mdauyhdiiped4jna5djbkfhk0k",
+    "fields": {
+        "session_data": ".eJxVjEsOwjAMBe-SNYocuc2HJXvOUNmxQwqolZp2hbg7VOoCtm9m3ssMtK112JouwyjmbJw5_W5M-aHTDuRO0222eZ7WZWS7K_agzV5n0eflcP8OKrX6rSNAEVDW7AJH8KyhuD5EEsLkegXsMWXxXkUSF4wIXcrELoBg16l5fwD0Ojgu:1m3Sub:F6muEKFODTU_DtpdDrKy0qcunGnn5DPUvqK-OCNcOzM",
+        "expire_date": "2021-07-28T00:38:05.281Z"
+    }
+}
+]

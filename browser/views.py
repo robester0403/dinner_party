@@ -16,16 +16,20 @@ def foodtype(request, main_type):
     return render(request, 'browser/allitems.html', context)
 
 def allitems(request):
-    recipes = Recipe.objects.all().distinct('main_type')
+    # recipes = Recipe.objects.all().distinct('main_type')
+    recipes = Recipe.objects.all()
     context = {'recipes' : recipes}
     return render(request, 'browser/allitems.html', context)
 
 
 # trying to get a certain type
-def country(request, country):
-    recipes = Recipe.objects.filter(country=country)
-    context = {'recipes': recipes}
-    return render(request, 'browser/allitems.html', context)
+def country(request):
+    # recipes = Recipe.objects.filter(country=country)
+    country = Recipe.COUNTRY
+    context = {'country': country}
+    return render(request, 'browser/country.html', context)
+
+# def countryquery(request, country_selection):
 
 
 # get an item 
